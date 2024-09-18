@@ -2,8 +2,7 @@
 ## My name is Luiz Otávio and my nickname is "dev-luizotavio"!
 
 # About Me
-- Passionate about technology since childhood, I have always had the curiosity and desire to understand and delve into how a computer works. As a result, I became an IT     
-  technician in 2013. I am currently studying Systems Analysis and Development and also participating in the Santander Coders program in partnership with AdaTech.
+- Passionate about technology since childhood, I have always had the curiosity and desire to understand and delve into how a computer works. As a result, I became an IT technician in 2013. I am currently studying Systems Analysis and Development and also participating in the Santander Coders program in partnership with AdaTech.
   I have solid knowledge in programming logic and basic knowledge in Java (OOP, Spring, Hibernate, JPA), intermediate English (reading and writing), and an exceptional ability 
   to communicate and work with people.
 
